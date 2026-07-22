@@ -1,0 +1,6 @@
+{
+  "name": "ThriftMate",
+  "description": "Smart household grocery and ration budget tracker for Pakistani families with Gemini AI list analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
